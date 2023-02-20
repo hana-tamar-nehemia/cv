@@ -1,0 +1,33 @@
+body{
+    background-color: #EAF6F6;
+}
+hr{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 6%;
+}
+h1,h3{
+    color: #66BFBF;
+}
+p {
+    font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+  }
+  a {
+    flex: 1;
+    text-decoration: none;
+    outline: none;
+    text-align: center;
+    line-height: 3;
+    color: black;
+    background-color:lightseagreen;
+  }
+  html {
+    margin: 0;
+    font-family: sans-serif;
+  }
+  
+  .container {
+    display: flex;
+    gap: 0.625%;
+  }
